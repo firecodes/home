@@ -2,13 +2,8 @@
   reactNative web  
   QQ: 693266452 ------------------------
 # 技术栈
-<<<<<<< HEAD
-  react native android  
-  js --ES6
-=======
-  reactNative
->>>>>>> origin/master
-
+  react native android  项目
+  javascript  --ES6 语法
 # 在线demo
   
 

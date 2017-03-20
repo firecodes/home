@@ -19,9 +19,11 @@ git clone https://github.com/firecodes/home.git
 cd home
 
 # 安装依赖
+npm install
 
-
-# 打开浏览器，输入localhost:8080即可访问
+# 打开浏览器，输入react-native start 会自动
+react-native start  
+react-native run-android
 
 
 # 感谢

@@ -1,6 +1,5 @@
 # 项目介绍
   reactNative web  
-  QQ: 693266452 ------------------------
 # 技术栈
   react native android  项目
   javascript  --ES6 语法
